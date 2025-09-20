@@ -21,8 +21,8 @@ Cada imagen puede recibir **una o varias transformaciones aleatorias**, generand
 
 ## 📂 Organización
 📦 Vision_en_Robotica
-┣ 📂 Mini_Proyecto_1
-┃ ┣ 📂 imagenes # Carpeta con resultados
-┃ ┣ 📜 main.py # Código fuente
-┃ ┗ 📜 README.md # Documento explicativo
+- 📂 Mini_Proyecto_1
+-  - 📂 imagenes # Carpeta con resultados
+-  - 📜  main.py # Código fuente
+-  - 📜 README.md # Documento explicativo
 
