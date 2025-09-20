@@ -30,6 +30,6 @@ Como resultados, se genera una carpeta que contiene las imágenes modificadas
 
 
 ## Autores:
-Paulina Gómez Olvera Carpinteyro [paulina.gomezolveraco@udlap.mx]
-David León Céspedes [david.leoncso@udlap.mx]
-Juan Pablo Rosas Pineda [juan.rosaspa@udlap.mx]
+- Paulina Gómez Olvera Carpinteyro [paulina.gomezolveraco@udlap.mx]
+- David León Céspedes [david.leoncso@udlap.mx]
+- Juan Pablo Rosas Pineda [juan.rosaspa@udlap.mx]
