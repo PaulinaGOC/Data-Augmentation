@@ -22,7 +22,14 @@ Cada imagen puede recibir **una o varias transformaciones aleatorias**, generand
 ## 📂 Organización
 📦 Vision_en_Robotica
 - 📂 Mini_Proyecto_1
--  - 📂 imagenes # Carpeta con resultados
--  - 📜  main.py # Código fuente
--  - 📜 README.md # Documento explicativo
+  - 📂 imagenes # Carpeta con resultados
+  - 📜  main.py # Código fuente
+  - 📜 README.md # Documento explicativo
 
+Como resultados, se genera una carpeta que contiene las imágenes modificadas
+
+
+## Autores:
+Paulina Gómez Olvera Carpinteyro [paulina.gomezolveraco@udlap.mx]
+David León Céspedes [david.leoncso@udlap.mx]
+Juan Pablo Rosas Pineda [juan.rosaspa@udlap.mx]
